@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NNAPIsKit_Example' do
+  pod 'NNAPIsKit', :path => '../'
+
+  target 'NNAPIsKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
