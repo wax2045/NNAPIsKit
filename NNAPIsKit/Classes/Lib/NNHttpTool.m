@@ -8,7 +8,7 @@
 
 #import "NNHttpTool.h"
 #import "AFNetworking.h"
- 
+
 @implementation NNHttpTool
 + (instancetype)shareManager
 {
