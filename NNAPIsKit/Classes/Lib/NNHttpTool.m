@@ -8,8 +8,7 @@
 
 #import "NNHttpTool.h"
 #import "AFNetworking.h"
-#import "NSObject+NNGetCurrentController.h"
-
+ 
 @implementation NNHttpTool
 + (instancetype)shareManager
 {
